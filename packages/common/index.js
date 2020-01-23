@@ -12,5 +12,8 @@ module.exports  = {
         const date = moment().format('MMMM Do YYYY, h:mm:ss a')
         console.log(date)
     },
+    getDummy: () => {
+        console.log("Dummy here!")
+    }
 };
 
