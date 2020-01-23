@@ -8,5 +8,13 @@
   "main": "index.js",
   "repository": "https://github.com/budiTjendra/poc_yarn_workspace.git",
   "author": "budi-injo <budi.injo@telepathy.ai>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "lerna run test",
+    "test-scope": "lerna run test --scope={@poc/common,@poc/server}",
+    "test-common": "lerna run test --scope=@poc/common"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
 }
