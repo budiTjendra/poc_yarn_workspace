@@ -1,3 +1,4 @@
+var moment = require("moment")
 
 module.exports  = {
     getHelloText: (name) => {
@@ -7,4 +8,9 @@ module.exports  = {
             console.log('hello from common')
         }
     },
-}
+    getDate: () => {
+        const date = moment().format('MMMM Do YYYY, h:mm:ss a')
+        console.log(date)
+    },
+};
+
