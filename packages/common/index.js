@@ -1,6 +1,6 @@
 
 module.exports  = {
-    getText: (name) => {
+    getHelloText: (name) => {
         if (name){
             console.log(`hello ${name},from common`)
         }else{
