@@ -12,7 +12,8 @@
   "scripts": {
     "test": "lerna run test",
     "test-scope": "lerna run test --scope={@poc/common,@poc/server}",
-    "test-common": "lerna run test --scope=@poc/common"
+    "test-common": "lerna run test --scope=@poc/common",
+    "new-version": "lerna version --conventional-commits --yes"
   },
   "devDependencies": {
     "lerna": "^3.20.2"
