@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.2](https://github.com/budiTjendra/poc_yarn_workspace/compare/v2.0.1...v2.0.2) (2020-01-23)
+
+
+### Bug Fixes
+
+* add Dummy ([f863e56](https://github.com/budiTjendra/poc_yarn_workspace/commit/f863e564bf08688b79fe1e063ab0df442f324e38))
+
+
+
+
+
 ## [2.0.1](https://github.com/budiTjendra/poc_yarn_workspace/compare/v2.0.0...v2.0.1) (2020-01-23)
 
 
