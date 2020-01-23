@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "name": "poc_yarn_workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/budiTjendra/poc_yarn_workspace.git",
+  "author": "budi-injo <budi.injo@telepathy.ai>",
+  "license": "MIT"
+}

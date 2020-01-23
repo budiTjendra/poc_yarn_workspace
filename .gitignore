@@ -1,0 +1,10 @@
+
+node_modules/*
+.idea/*
+
+*.xml
+.idea/vcs.xml
+.idea/poc_yarn_workspace.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/misc.xml
