@@ -1,2 +1,6 @@
 const commonFunction = require("@poc/common");
-commonFunction();
+const {
+    getText
+}  = commonFunction
+
+getText();

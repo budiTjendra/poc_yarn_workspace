@@ -1,3 +1,5 @@
-module.exports = () => {
-    console.log('hello from common!')
+module.exports  = {
+    getText: () => {
+        console.log('hello from common')
+    }
 }
